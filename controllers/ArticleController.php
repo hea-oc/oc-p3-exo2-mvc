@@ -6,7 +6,6 @@ use Services\Utils;
 use Models\ArticleManager;
 use Models\CommentManager;
 use Views\View;
-
 use Exception;
 
 class ArticleController
